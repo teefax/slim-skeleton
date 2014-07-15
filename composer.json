@@ -1,7 +1,7 @@
 {
     "name": "teefax/slim-skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
-    "keywords": ["microframework","rest","router"],
+    "description": "A Slim Framework skeleton with SlimController, Idiorm, Twig, Compass and Bootstrap",
+    "keywords": ["microframework","slim","twig","compass","bootstrap"],
     "homepage": "http://github.com/teefax/slim-skeleton",
     "license": "MIT",
     "authors": [
