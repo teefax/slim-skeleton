@@ -11,6 +11,8 @@ This is my Slim framework skeleton with:
 - phpref
 - Compass and Bootstrap-Sass for CSS
 
+Heavily based on [jarretgabel/php-slim-framework-boilerplate](https://github.com/jarretgabel/php-slim-framework-boilerplate) and [apipemc/slim-skeleton](https://github.com/apipemc/slim-skeleton).
+
 ## Usage:
 
 Clone this repo, edit `app/config/app.php` and `app/config/db.php`, create models in `app/models/*` and controllers in `app/controllers/*`.
@@ -18,3 +20,4 @@ Clone this repo, edit `app/config/app.php` and `app/config/db.php`, create model
 Define routes in `app/routes.php`
 
 With ruby installed, run `bundle install` to get the required gems, and then run `bundle exec compass watch` to automatically compile your stylesheets when something changes in `app/asses/sass/`.
+
