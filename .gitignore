@@ -3,3 +3,4 @@ vendor/
 app/views/cache
 app/logs/*
 .sass-cache
+Gemfile.lock
