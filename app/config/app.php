@@ -9,7 +9,7 @@ $app = new \SlimController\Slim(array(
     'templates.path'             => dirname(__DIR__) . '/views',
     'cookies.secret_key'         => md5('appsecretkey'),
 
-    'controller.class_prefix'    => '',
+    'controller.class_suffix'    => '',
     'controller.method_suffix'   => '',
     'controller.template_suffix' => 'twig',
 

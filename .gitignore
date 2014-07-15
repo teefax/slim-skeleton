@@ -2,3 +2,4 @@ composer.lock
 vendor/
 app/views/cache
 app/logs/*
+.sass-cache
